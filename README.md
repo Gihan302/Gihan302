@@ -1,11 +1,15 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Gihan Chinthaka</h1>
-<h3 align="center">A passionate web dev & mobile app dev from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan302&label=Profile%20views&color=0e75b6&style=flat" alt="gihan302" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gihan302" alt="gihan302" /></a> </p>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 ---
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🔭 I’m currently working on [Auto Care](https://github.com/Gihan302/Auto-Care)
 
@@ -16,6 +20,11 @@
 - 💬 Ask me about **Web Developepment**
 
 - 📫 How to reach me **gihanc302@gmail.com**
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=gihan302&show_icons=true&theme=tokyonight)
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihan302&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=gihan302&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
